@@ -1,0 +1,10 @@
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\bin\Debug\抽奖机.exe.config
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\bin\Debug\抽奖机.exe
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\bin\Debug\抽奖机.pdb
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\obj\Debug\抽奖机.csproj.AssemblyReference.cache
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\obj\Debug\抽奖机.Form1.resources
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\obj\Debug\抽奖机.Properties.Resources.resources
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\obj\Debug\抽奖机.csproj.GenerateResource.cache
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\obj\Debug\抽奖机.csproj.CoreCompileInputs.cache
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\obj\Debug\抽奖机.exe
+F:\Code\Winform\抽奖机\抽奖机\抽奖机\obj\Debug\抽奖机.pdb
